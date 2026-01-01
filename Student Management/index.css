@@ -1,0 +1,38 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    margin-top: 10px;
+}
+
+input {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+table {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
